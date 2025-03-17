@@ -1,0 +1,15 @@
+pandas
+langgraph
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+huggingface_hub
+python-docx
+openai
+pdfplumber
+
+
+
+pip install -r requirements.txt
+#Run pip install -r requirements.txt to install them

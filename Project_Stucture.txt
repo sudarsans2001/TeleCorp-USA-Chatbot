@@ -1,0 +1,14 @@
+telecorp-usa-chatbot/
+├── chatbot.py           # Main script
+├── requirements.txt     # Dependencies
+├── content/
+│   ├── telecom.csv      # Sample marketing data
+│   ├── Error Codes.pdf  # Sample error codes and issues
+├── .github/
+│   ├── workflows/
+│       ├── test.yml     # CI/CD workflow
+├── README.md            # This file
+└── .gitignore           # Git ignore file     
+
+## Dependencies
+Listed in `requirements.txt`:
