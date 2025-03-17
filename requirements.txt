@@ -11,5 +11,5 @@ pdfplumber
 
 
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
 #Run pip install -r requirements.txt to install them
